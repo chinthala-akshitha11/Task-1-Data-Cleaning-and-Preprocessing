@@ -4,7 +4,7 @@
 ## 📌 Objective
 To clean and prepare the Medical Appointment No Shows dataset by handling nulls, duplicates, and encoding issues using Excel and Python.
 
----
+
 
 ## 🧹 Cleaning Steps (Excel)
 •⁠  ⁠Removed duplicate entries based on unique IDs.
@@ -13,12 +13,11 @@ To clean and prepare the Medical Appointment No Shows dataset by handling nulls,
 •⁠  ⁠Converted ⁠ No-show ⁠ to binary: Yes → 1, No → 0.
 •⁠  ⁠Trimmed extra spaces and standardized text fields.
 
----
+
 
 ## 🧰 Tools Used
 •⁠  ⁠Microsoft Excel
 
----
 
 ## 📂 Folder Contents
 •⁠  ⁠⁠ data/ ⁠ → raw and cleaned datasets
@@ -27,7 +26,6 @@ To clean and prepare the Medical Appointment No Shows dataset by handling nulls,
 •⁠  ⁠⁠ excel_cleaning_steps.xlsx ⁠ → Excel cleaned version
 •⁠  ⁠⁠ README.md ⁠ → Task summary and description
 
----
 
 ## ✅ Output
 A clean dataset: ⁠ medical_appointments_cleaned.csv ⁠ ready for analysis or visualization.
